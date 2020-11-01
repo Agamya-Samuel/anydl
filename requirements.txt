@@ -1,5 +1,5 @@
 requests
-https://github.com/l1ving/youtube-dl
+youtube-dl
 git+git://github.com/google/chatbase-python.git
 pyrogram[fast]
 Pillow
